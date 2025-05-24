@@ -1,63 +1,69 @@
-# T-Nikki 📘
+# 📘 T-Nikki — A privacy-first journaling app for traders who value reflection over results
 
-Welcome to **T-Nikki**, a lightweight, frontend-only journaling app for day traders.  
-This is the official GitHub Pages repository for the project: [https://t-nikki.github.io](https://t-nikki.github.io)
+Welcome to **T-Nikki**, a minimalist journaling tool built for day traders who want to grow through reflection, not just numbers.
+
+This is the official GitHub Pages repository for the project:  
+👉 https://t-nikki.github.io
 
 ---
 
 ## 🔍 What is T-Nikki?
 
-T-Nikki is a minimalist trade journaling tool designed for beginners and intermediate traders who want to:
+T-Nikki is designed for beginner and intermediate traders who want to:
 
-- Track their trades easily
-- Reflect on emotions and confidence levels
-- Build consistent trading habits
-- Keep everything 100% private (no backend or account needed)
+- ✅ Easily track trades  
+- 🧠 Reflect on emotions and confidence  
+- 🔁 Build better trading habits  
+- 🔒 Keep data 100% private (local-only, no login)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- React (Vite)
-- Tailwind CSS
-- localStorage (browser-side persistence)
-- GitHub Pages (for public deployment)
-- Vercel (optional, for alternate deployment)
+- ⚛️ React (Vite)  
+- 🎨 Tailwind CSS  
+- 💾 localStorage (browser-side persistence)  
+- 🌐 GitHub Pages (for public deployment)  
+- 🚀 Vercel (optional)
 
 ---
 
-## 📂 Project Structure
+## 📂 Repository Structure
 
-This repository contains:
-
-- `index.md`: Landing page content for the GitHub Pages site
-- `_config.yml`: Jekyll configuration for styling/layout
-- `images/`: Assets and mockups
-- `README.md`: You’re reading it!
+- `index.md` – Landing page content for GitHub Pages  
+- `_config.yml` – Jekyll configuration  
+- `images/` – Assets and UI mockups  
+- `README.md` – This file
 
 ---
 
 ## 🚀 Live Site
 
-🖥️ Check out the site here:  
 👉 [https://t-nikki.github.io](https://t-nikki.github.io)
 
 ---
 
 ## 🧠 Development Goals
 
-- Make trade journaling feel natural and quick
-- Focus on reflection, not just numbers
-- Encourage emotional awareness in trading
+- Make journaling quick and natural  
+- Focus on self-awareness, not just profit  
+- Encourage emotional discipline  
+- Help traders notice patterns in their mindset
 
 ---
 
 ## 🧑‍💻 Author
 
-This project is maintained by [Rei Fukuzawa](https://reifukuzawa.github.io).  
-Pull requests and feedback welcome in future phases!
+Project by **Rei Fukuzawa**  
+Pull requests and feedback welcome!
 
 ---
 
-> “Your trades tell a story. T-Nikki helps you read it.”
+## ⚠️ Disclaimer
 
+This project is a **learning and personal development exercise**.  
+T-Nikki is **not a financial product or trading advice tool**, and does **not store or transmit any actual trading data**.
+
+The journaling format and UI are based on simulated or generic trade reflections, and are intended for **self-reflection and habit-building only**.
+
+---
