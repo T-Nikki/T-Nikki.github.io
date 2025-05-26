@@ -54,7 +54,7 @@ T-Nikki is designed for beginner and intermediate traders who want to:
 
 ## 🧑‍💻 Author
 
-Project by **Rei Fukuzawa**  
+Project by **Kachamaru**  
 Pull requests and feedback welcome!
 
 ---
