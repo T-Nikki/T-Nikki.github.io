@@ -3,6 +3,8 @@ Welcome to T-Nikki, a minimalist trade journaling app focused on reflection and 
 
 ---
 
+日本語で読みたい方はこちら 👉 [README.ja.md](./README.ja.md)
+
 ## 🔄 Overview  
 T-Nikki is a lightweight, mobile-first journaling app for day traders who want to track trades, reflect on their mental state, and form better trading habits. No backend, no account, no fluff—just your data, your growth.
 
